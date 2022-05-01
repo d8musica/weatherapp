@@ -1,0 +1,13 @@
+.MuiListItemText-primary {
+    color:black;
+    font-weight: bold;
+}
+
+.MuiListItemText-root {
+    padding: 0 10px;
+    width: 100%;
+}
+
+.MuiListItemText-multiline {
+    width: 100%;
+}

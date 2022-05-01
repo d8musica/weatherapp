@@ -1,0 +1,10 @@
+.App-navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 100px;
+}
+
+.App-nav {
+  padding: 20px;
+}

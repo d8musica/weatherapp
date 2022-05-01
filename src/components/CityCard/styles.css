@@ -1,0 +1,42 @@
+.weather-card {
+    background-color: #282c34;
+    background-size: cover;
+    color: white;
+  }
+
+.weather-card-content {
+    margin: 100px auto;
+}
+.weather-card__cover--weather {
+  text-transform: capitalize;
+}
+
+.MuiCardHeader-title {
+  font-size: 30px;
+}
+
+.weather-card__cover--temperature {
+  font-size: 80px;
+  font-weight: bolder;
+}
+
+.weather-card__cover--weather {
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.weather-card--min-max {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.weather-card__view-more {
+  padding-left: 20px;
+  color: black;
+  font-weight: normal;
+  font-size: large;
+}
+
+span {
+color: white;
+}

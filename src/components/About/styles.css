@@ -1,0 +1,16 @@
+.about {
+  margin: 50px 50px;
+  text-align: justify;
+}
+
+.about__title {
+  color: black;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.about__subtitle {
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+}
